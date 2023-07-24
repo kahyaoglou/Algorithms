@@ -1,0 +1,15 @@
+C:\Users\furkan.kahyaoglu\source\repos\Binary-Search-Algorithm\Binary-Search-Algorithm\bin\Debug\net6.0\Binary-Search-Algorithm.exe
+C:\Users\furkan.kahyaoglu\source\repos\Binary-Search-Algorithm\Binary-Search-Algorithm\bin\Debug\net6.0\Binary-Search-Algorithm.deps.json
+C:\Users\furkan.kahyaoglu\source\repos\Binary-Search-Algorithm\Binary-Search-Algorithm\bin\Debug\net6.0\Binary-Search-Algorithm.runtimeconfig.json
+C:\Users\furkan.kahyaoglu\source\repos\Binary-Search-Algorithm\Binary-Search-Algorithm\bin\Debug\net6.0\Binary-Search-Algorithm.dll
+C:\Users\furkan.kahyaoglu\source\repos\Binary-Search-Algorithm\Binary-Search-Algorithm\bin\Debug\net6.0\Binary-Search-Algorithm.pdb
+C:\Users\furkan.kahyaoglu\source\repos\Binary-Search-Algorithm\Binary-Search-Algorithm\obj\Debug\net6.0\Binary-Search-Algorithm.csproj.AssemblyReference.cache
+C:\Users\furkan.kahyaoglu\source\repos\Binary-Search-Algorithm\Binary-Search-Algorithm\obj\Debug\net6.0\Binary-Search-Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.kahyaoglu\source\repos\Binary-Search-Algorithm\Binary-Search-Algorithm\obj\Debug\net6.0\Binary-Search-Algorithm.AssemblyInfoInputs.cache
+C:\Users\furkan.kahyaoglu\source\repos\Binary-Search-Algorithm\Binary-Search-Algorithm\obj\Debug\net6.0\Binary-Search-Algorithm.AssemblyInfo.cs
+C:\Users\furkan.kahyaoglu\source\repos\Binary-Search-Algorithm\Binary-Search-Algorithm\obj\Debug\net6.0\Binary-Search-Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\furkan.kahyaoglu\source\repos\Binary-Search-Algorithm\Binary-Search-Algorithm\obj\Debug\net6.0\Binary-Search-Algorithm.dll
+C:\Users\furkan.kahyaoglu\source\repos\Binary-Search-Algorithm\Binary-Search-Algorithm\obj\Debug\net6.0\refint\Binary-Search-Algorithm.dll
+C:\Users\furkan.kahyaoglu\source\repos\Binary-Search-Algorithm\Binary-Search-Algorithm\obj\Debug\net6.0\Binary-Search-Algorithm.pdb
+C:\Users\furkan.kahyaoglu\source\repos\Binary-Search-Algorithm\Binary-Search-Algorithm\obj\Debug\net6.0\Binary-Search-Algorithm.genruntimeconfig.cache
+C:\Users\furkan.kahyaoglu\source\repos\Binary-Search-Algorithm\Binary-Search-Algorithm\obj\Debug\net6.0\ref\Binary-Search-Algorithm.dll
