@@ -1,0 +1,15 @@
+C:\Users\furkan.kahyaoglu\source\repos\Linear-Search-Algorithm\Linear-Search-Algorithm\bin\Debug\net6.0\Linear-Search-Algorithm.exe
+C:\Users\furkan.kahyaoglu\source\repos\Linear-Search-Algorithm\Linear-Search-Algorithm\bin\Debug\net6.0\Linear-Search-Algorithm.deps.json
+C:\Users\furkan.kahyaoglu\source\repos\Linear-Search-Algorithm\Linear-Search-Algorithm\bin\Debug\net6.0\Linear-Search-Algorithm.runtimeconfig.json
+C:\Users\furkan.kahyaoglu\source\repos\Linear-Search-Algorithm\Linear-Search-Algorithm\bin\Debug\net6.0\Linear-Search-Algorithm.dll
+C:\Users\furkan.kahyaoglu\source\repos\Linear-Search-Algorithm\Linear-Search-Algorithm\bin\Debug\net6.0\Linear-Search-Algorithm.pdb
+C:\Users\furkan.kahyaoglu\source\repos\Linear-Search-Algorithm\Linear-Search-Algorithm\obj\Debug\net6.0\Linear-Search-Algorithm.csproj.AssemblyReference.cache
+C:\Users\furkan.kahyaoglu\source\repos\Linear-Search-Algorithm\Linear-Search-Algorithm\obj\Debug\net6.0\Linear-Search-Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.kahyaoglu\source\repos\Linear-Search-Algorithm\Linear-Search-Algorithm\obj\Debug\net6.0\Linear-Search-Algorithm.AssemblyInfoInputs.cache
+C:\Users\furkan.kahyaoglu\source\repos\Linear-Search-Algorithm\Linear-Search-Algorithm\obj\Debug\net6.0\Linear-Search-Algorithm.AssemblyInfo.cs
+C:\Users\furkan.kahyaoglu\source\repos\Linear-Search-Algorithm\Linear-Search-Algorithm\obj\Debug\net6.0\Linear-Search-Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\furkan.kahyaoglu\source\repos\Linear-Search-Algorithm\Linear-Search-Algorithm\obj\Debug\net6.0\Linear-Search-Algorithm.dll
+C:\Users\furkan.kahyaoglu\source\repos\Linear-Search-Algorithm\Linear-Search-Algorithm\obj\Debug\net6.0\refint\Linear-Search-Algorithm.dll
+C:\Users\furkan.kahyaoglu\source\repos\Linear-Search-Algorithm\Linear-Search-Algorithm\obj\Debug\net6.0\Linear-Search-Algorithm.pdb
+C:\Users\furkan.kahyaoglu\source\repos\Linear-Search-Algorithm\Linear-Search-Algorithm\obj\Debug\net6.0\Linear-Search-Algorithm.genruntimeconfig.cache
+C:\Users\furkan.kahyaoglu\source\repos\Linear-Search-Algorithm\Linear-Search-Algorithm\obj\Debug\net6.0\ref\Linear-Search-Algorithm.dll
