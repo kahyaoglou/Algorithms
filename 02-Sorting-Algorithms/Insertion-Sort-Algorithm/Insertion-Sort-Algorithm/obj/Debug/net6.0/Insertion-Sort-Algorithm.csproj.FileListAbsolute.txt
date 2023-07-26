@@ -1,0 +1,15 @@
+C:\Users\furkan.kahyaoglu\source\repos\Insertion-Sort-Algorithm\Insertion-Sort-Algorithm\bin\Debug\net6.0\Insertion-Sort-Algorithm.exe
+C:\Users\furkan.kahyaoglu\source\repos\Insertion-Sort-Algorithm\Insertion-Sort-Algorithm\bin\Debug\net6.0\Insertion-Sort-Algorithm.deps.json
+C:\Users\furkan.kahyaoglu\source\repos\Insertion-Sort-Algorithm\Insertion-Sort-Algorithm\bin\Debug\net6.0\Insertion-Sort-Algorithm.runtimeconfig.json
+C:\Users\furkan.kahyaoglu\source\repos\Insertion-Sort-Algorithm\Insertion-Sort-Algorithm\bin\Debug\net6.0\Insertion-Sort-Algorithm.dll
+C:\Users\furkan.kahyaoglu\source\repos\Insertion-Sort-Algorithm\Insertion-Sort-Algorithm\bin\Debug\net6.0\Insertion-Sort-Algorithm.pdb
+C:\Users\furkan.kahyaoglu\source\repos\Insertion-Sort-Algorithm\Insertion-Sort-Algorithm\obj\Debug\net6.0\Insertion-Sort-Algorithm.csproj.AssemblyReference.cache
+C:\Users\furkan.kahyaoglu\source\repos\Insertion-Sort-Algorithm\Insertion-Sort-Algorithm\obj\Debug\net6.0\Insertion-Sort-Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.kahyaoglu\source\repos\Insertion-Sort-Algorithm\Insertion-Sort-Algorithm\obj\Debug\net6.0\Insertion-Sort-Algorithm.AssemblyInfoInputs.cache
+C:\Users\furkan.kahyaoglu\source\repos\Insertion-Sort-Algorithm\Insertion-Sort-Algorithm\obj\Debug\net6.0\Insertion-Sort-Algorithm.AssemblyInfo.cs
+C:\Users\furkan.kahyaoglu\source\repos\Insertion-Sort-Algorithm\Insertion-Sort-Algorithm\obj\Debug\net6.0\Insertion-Sort-Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\furkan.kahyaoglu\source\repos\Insertion-Sort-Algorithm\Insertion-Sort-Algorithm\obj\Debug\net6.0\Insertion-Sort-Algorithm.dll
+C:\Users\furkan.kahyaoglu\source\repos\Insertion-Sort-Algorithm\Insertion-Sort-Algorithm\obj\Debug\net6.0\refint\Insertion-Sort-Algorithm.dll
+C:\Users\furkan.kahyaoglu\source\repos\Insertion-Sort-Algorithm\Insertion-Sort-Algorithm\obj\Debug\net6.0\Insertion-Sort-Algorithm.pdb
+C:\Users\furkan.kahyaoglu\source\repos\Insertion-Sort-Algorithm\Insertion-Sort-Algorithm\obj\Debug\net6.0\Insertion-Sort-Algorithm.genruntimeconfig.cache
+C:\Users\furkan.kahyaoglu\source\repos\Insertion-Sort-Algorithm\Insertion-Sort-Algorithm\obj\Debug\net6.0\ref\Insertion-Sort-Algorithm.dll
