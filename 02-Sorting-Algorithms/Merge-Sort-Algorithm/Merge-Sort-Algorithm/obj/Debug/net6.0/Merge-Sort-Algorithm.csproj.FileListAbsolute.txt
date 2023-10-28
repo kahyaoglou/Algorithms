@@ -1,0 +1,15 @@
+C:\Users\furkan.kahyaoglu\source\repos\Merge-Sort-Algorithm\Merge-Sort-Algorithm\bin\Debug\net6.0\Merge-Sort-Algorithm.exe
+C:\Users\furkan.kahyaoglu\source\repos\Merge-Sort-Algorithm\Merge-Sort-Algorithm\bin\Debug\net6.0\Merge-Sort-Algorithm.deps.json
+C:\Users\furkan.kahyaoglu\source\repos\Merge-Sort-Algorithm\Merge-Sort-Algorithm\bin\Debug\net6.0\Merge-Sort-Algorithm.runtimeconfig.json
+C:\Users\furkan.kahyaoglu\source\repos\Merge-Sort-Algorithm\Merge-Sort-Algorithm\bin\Debug\net6.0\Merge-Sort-Algorithm.dll
+C:\Users\furkan.kahyaoglu\source\repos\Merge-Sort-Algorithm\Merge-Sort-Algorithm\bin\Debug\net6.0\Merge-Sort-Algorithm.pdb
+C:\Users\furkan.kahyaoglu\source\repos\Merge-Sort-Algorithm\Merge-Sort-Algorithm\obj\Debug\net6.0\Merge-Sort-Algorithm.csproj.AssemblyReference.cache
+C:\Users\furkan.kahyaoglu\source\repos\Merge-Sort-Algorithm\Merge-Sort-Algorithm\obj\Debug\net6.0\Merge-Sort-Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan.kahyaoglu\source\repos\Merge-Sort-Algorithm\Merge-Sort-Algorithm\obj\Debug\net6.0\Merge-Sort-Algorithm.AssemblyInfoInputs.cache
+C:\Users\furkan.kahyaoglu\source\repos\Merge-Sort-Algorithm\Merge-Sort-Algorithm\obj\Debug\net6.0\Merge-Sort-Algorithm.AssemblyInfo.cs
+C:\Users\furkan.kahyaoglu\source\repos\Merge-Sort-Algorithm\Merge-Sort-Algorithm\obj\Debug\net6.0\Merge-Sort-Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\furkan.kahyaoglu\source\repos\Merge-Sort-Algorithm\Merge-Sort-Algorithm\obj\Debug\net6.0\Merge-Sort-Algorithm.dll
+C:\Users\furkan.kahyaoglu\source\repos\Merge-Sort-Algorithm\Merge-Sort-Algorithm\obj\Debug\net6.0\refint\Merge-Sort-Algorithm.dll
+C:\Users\furkan.kahyaoglu\source\repos\Merge-Sort-Algorithm\Merge-Sort-Algorithm\obj\Debug\net6.0\Merge-Sort-Algorithm.pdb
+C:\Users\furkan.kahyaoglu\source\repos\Merge-Sort-Algorithm\Merge-Sort-Algorithm\obj\Debug\net6.0\Merge-Sort-Algorithm.genruntimeconfig.cache
+C:\Users\furkan.kahyaoglu\source\repos\Merge-Sort-Algorithm\Merge-Sort-Algorithm\obj\Debug\net6.0\ref\Merge-Sort-Algorithm.dll
